@@ -19,21 +19,20 @@ const Jsprojects = () => {
               <div className="row">
                 <div className="col-sm-6">
                   
-                    <img src={pf1} alt="Responsive Car" />
+                    <img src={pf1} alt="github" />
                   
                   <br />
                   <a
                     href="https://github.com/warmercolor/responsive-car"
                     className="btn btn-default d-block github"
                     target="_blank"
-                    rel="noreferrer"
                   >
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg} alt="github"/>
                   </a>
                 </div>
                 <div className="col-sm-6">
                   
-                    <img src={pf2} alt="Simple To Do List" />
+                    <img src={pf2} alt="github" />
                   
                   <a
                     href="https://github.com/warmercolor/react-to-do-list"
@@ -41,12 +40,12 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg} alt="github"/>
                   </a>
                 </div>
                 <div className="col-sm-6">
                   
-                    <img src={pf3} alt="Ecommerce Sara" />
+                    <img src={pf3} alt="github" />
                   
                   <br />
                   <a
@@ -55,7 +54,7 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg} alt="github"/>
                   </a>
                 </div>
                 <div className="col-sm-6">
@@ -67,11 +66,11 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg} alt="github"/>
                   </a>
                 </div>
                 <div className="col-sm-6">
-                    <img src={pf5} alt="Project 2 Give" />
+                    <img src={pf5} alt="Project 2 Give"/>
                   <br />
                   <a
                     href="https://github.com/grupo3-daniel-m3/2Give-app"
@@ -79,7 +78,7 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Github Code <img src={githubImg} />
+                    Github Code <img src={githubImg} alt="github"/>
                   </a>
                 </div>
               </div>
