@@ -1,6 +1,5 @@
 import React from "react";
 import "./Jsprojects.css";
-import ProjectData from "../Data/Jsprojects.json";
 import githubImg from "../assets/img/github.png";
 import pf1 from "../assets/projects/project1.png";
 import pf2 from "../assets/projects/project2.png";
