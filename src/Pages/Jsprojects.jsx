@@ -26,6 +26,7 @@ const Jsprojects = () => {
                     href="https://github.com/warmercolor/responsive-car"
                     className="btn btn-default d-block github"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Github Code <img src={githubImg} alt="github"/>
                   </a>
